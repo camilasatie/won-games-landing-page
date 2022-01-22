@@ -1,5 +1,5 @@
 {
-  "name": "next-boilerplate",
+  "name": "client",
   "private": true,
   "scripts": {
     "dev": "next dev",
